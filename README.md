@@ -1,10 +1,10 @@
-# My Portfolio
+# My DashboardUI
 Welcome to my DashboardUI .
 
 
 ## Some Images:
-<img width="450px;" src="https://github.com/sohan03/DashboardUI/blob/main/Admindashboard/Screenshot%202024-07-25%20163319.png"/>
-<img width="450px;" src="https://github.com/sohan03/DashboardUI/blob/main/Admindashboard/Screenshot%202024-07-25%20163458.png"/>
+<img width="650px;" src="https://github.com/sohan03/DashboardUI/blob/main/Admindashboard/Screenshot%202024-07-25%20163319.png"/>
+<img width="650px;" src="https://github.com/sohan03/DashboardUI/blob/main/Admindashboard/Screenshot%202024-07-25%20163458.png"/>
 
 
 
