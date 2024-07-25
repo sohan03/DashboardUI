@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap');
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;500;600;700&display=swap');
+
+@import "primereact/resources/themes/lara-light-indigo/theme.css";     
+    
+@import "primereact/resources/primereact.min.css";                                       
+        
+
+/* styles.css or styles.scss */
+.my-custom-datepicker {
+  /* Your custom styles here */
+  /* For example, change the font size and padding */
+  font-size: 1px;
+  padding: 1px;
+}
+
+body {
+  font-family: var(--font-family);
+}                                        
+      
+
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+.font-segoe-ui {
+  font-family: 'Segoe UI', sans-serif;
+}/* styles.css */
+
+
+.card {
+  position: relative; /* Required for absolute positioning */
+  height: 50px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 300ms ease-out, box-shadow 300ms ease-out;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-content {
+  text-align: left; /* Align text to the left */
+  position: absolute;
+  top: 30px; /* Adjust top position as needed */
+  left: 30px; /* Adjust left position as needed */
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.card-number {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 32px;
+  color: #5a5c69;
+}
+.mar{
+  margin:auto;
+}
